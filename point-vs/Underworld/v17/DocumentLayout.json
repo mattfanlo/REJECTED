@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sicarius\\Underworld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|c:\\users\\sicarius\\underworld\\assets\\scripts\\characters\\playermovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\playermovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|c:\\users\\sicarius\\underworld\\assets\\scripts\\characters\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|C:\\Users\\Sicarius\\Underworld\\assets\\scripts\\characters\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|C:\\Users\\Sicarius\\Underworld\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|C:\\Users\\Sicarius\\Underworld\\assets\\scripts\\characters\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|C:\\Users\\Sicarius\\Underworld\\assets\\scripts\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|C:\\Users\\Sicarius\\Underworld\\assets\\scripts\\characters\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|C:\\Users\\Sicarius\\Underworld\\assets\\scripts\\characters\\charactercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\charactercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|C:\\Users\\Sicarius\\Underworld\\assets\\scripts\\anim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\anim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|C:\\Users\\Sicarius\\Underworld\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B69A50-976A-0E46-C912-A4FB616F6F35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Anim.cs",
+              "DocumentMoniker": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\Anim.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Anim.cs",
+              "ToolTip": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\Anim.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Anim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:13:47.485Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovements.cs",
+              "DocumentMoniker": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\Characters\\PlayerMovements.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\PlayerMovements.cs",
+              "ToolTip": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\Characters\\PlayerMovements.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\PlayerMovements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:48:12.176Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyDamage.cs",
+              "DocumentMoniker": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\Characters\\EnemyDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\EnemyDamage.cs",
+              "ToolTip": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\Characters\\EnemyDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\EnemyDamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:09:37.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CharacterController2D.cs",
+              "DocumentMoniker": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\Characters\\CharacterController2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\CharacterController2D.cs",
+              "ToolTip": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\Characters\\CharacterController2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\CharacterController2D.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:20:18.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\Characters\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\Characters\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\PlayerAttack.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:01:17.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:53:52.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneChange.cs",
+              "DocumentMoniker": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\SceneChange.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChange.cs",
+              "ToolTip": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\SceneChange.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneChange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:12:42.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\Characters\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\Characters\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:29:02.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\Characters\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\EnemyHealth.cs",
+              "ToolTip": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\Characters\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\EnemyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:17:47.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\Sicarius\\Underworld\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:53:14.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
