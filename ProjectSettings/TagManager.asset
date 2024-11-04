@@ -8,6 +8,8 @@ TagManager:
   - Weapon
   - Lose
   - Ground
+  - Obstacle
+  - EnemyMinion
   layers:
   - Default
   - TransparentFX
